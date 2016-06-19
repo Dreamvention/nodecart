@@ -9,7 +9,7 @@ var	express = require('express');
 
 	app = express();
 
-	//route
+	//router
 	router = express.Router();
 	app.use(router);
 	controller = require(config.get('dir').system+'engine/controller');

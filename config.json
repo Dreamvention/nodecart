@@ -1,0 +1,24 @@
+{
+	"dir": {
+		"app": "/Users/dmitriyzhuk/NodeSites/nodecart/app/",
+		"system" : "/Users/dmitriyzhuk/NodeSites/nodecart/system/",
+		"database": "", 
+		"language": "/Users/dmitriyzhuk/NodeSites/nodecart/app/language/",
+		"template": "/Users/dmitriyzhuk/NodeSites/nodecart/app/view/theme/",
+		"image": "/Users/dmitriyzhuk/NodeSites/nodecart/image/",
+		"config": "/Users/dmitriyzhuk/NodeSites/nodecart/system/config/",
+		"download": "/Users/dmitriyzhuk/NodeSites/nodecart/system/download/",
+		"upload": "/Users/dmitriyzhuk/NodeSites/nodecart/system/upload/",
+		"cache": "/Users/dmitriyzhuk/NodeSites/nodecart/system/cache/",
+		"logs": "/Users/dmitriyzhuk/NodeSites/nodecart/system/logs/"
+	},
+
+	"db": {
+		"driver": "mongodb",
+		"hostname": "localhost",
+		"name": "store",
+		"user": "",
+		"pass": "",
+		"prefix": "oc_"
+	}
+}
