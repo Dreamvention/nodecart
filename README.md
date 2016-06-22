@@ -1,5 +1,5 @@
 # nodecart
-User-friendly Ecommerce CMS based on Node.js, Express, RESTful API, MongoDB, Handlebars.js, Backbone.js, Marionette.js, Bootstrap, Rendr
+User-friendly Ecommerce CMS based on Node.js, Koa.js, RESTful API, Bookshelf.js, Handlebars.js, Backbone.js, Marionette.js, Bootstrap, Rendr
 
 ## Intro
 The future of CMS is repedly moving twards js and we thought it could be a great thing to move our development from php cms to node.js ... so we looked to find a simple yet powerful CMS based on our favorite libraries... we are still looking)
